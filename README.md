@@ -1,4 +1,4 @@
-### Hi there, I'm Mahmoud AHmed [Code4learn][code4learn.com] 👋
+### Hi there, I'm Mahmoud AHmed [code4learn.com] 👋
 
 ## I'm a Python Developer & Instructor
 - 🔭 I’m currently working as a freelancer !
@@ -10,9 +10,9 @@
 ### Connect with me:
 
 [<img align="left" alt="code4learn.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][code4learn.com]
-[<img align="left" alt="mahmoud ahmed" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/c/MahmoudAhmed6]
-[<img align="left" alt="mahmoud ahmed" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Code4Learn]
-[<img align="left" alt="mahmoud ahmed" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://eg.linkedin.com/in/pythondeveloper6]
+[<img align="left" alt="mahmoud ahmed | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/c/MahmoudAhmed6]
+[<img align="left" alt="mahmoud ahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Code4Learn]
+[<img align="left" alt="Mahmoud Ahmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://eg.linkedin.com/in/pythondeveloper6]
 
 <br />
 
@@ -22,7 +22,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />][reactplaylist]
+[<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
