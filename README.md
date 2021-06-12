@@ -1,10 +1,10 @@
 ### Hi there, I'm Mahmoud AHmed [code4learn.com] 👋
 
 ## I'm a Python Developer & Instructor
-- 🔭 I’m currently working as a freelancer !
+- 🔭 I’m currently working as Senior Django Developer at Ajej Consult !
 - 🌱 I’m currently learning Data Sciense & AI 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects & setup my company
+- 🥅 2021 Goals: Contribute more to Open Source projects & Master Data Science 
 - ⚡ Fun fact: I love to draw and teach people
 
 
@@ -38,9 +38,3 @@
 
 <br />
 <br />
-
-
-
-
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pythondeveloper6&show_icons=true&hide_border=true" />
