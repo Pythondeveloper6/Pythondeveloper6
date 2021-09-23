@@ -44,8 +44,6 @@
 [<img align="left" alt="Jupeter" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/jupyter.svg" />]()
 [<img align="left" alt="Anaconda" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/anaconda.svg" />]()
 
-<br />
-<br />
 
 [<img align="left" alt="Numpy" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />]()
 [<img align="left" alt="Panda" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />]()
