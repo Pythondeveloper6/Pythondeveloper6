@@ -1,4 +1,4 @@
-### Hi there, I'm Mahmoud AHmed [code4learn.com] 👋
+### Hi there, I'm Mahmoud Ahmed [code4learn.com] 👋
 
 ## I'm a Python Developer & Instructor
 - 🌱 I’m currently learning Data Sciense & AI 🤣
