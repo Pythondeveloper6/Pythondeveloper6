@@ -12,7 +12,7 @@
 - 🏢 Previously worked with Ajej Consult 
 - 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects & Master Data Science 
+- 🥅 2022 Goals: Contribute more to Open Source projects & Master Data Science 
 - ⚡ Fun fact: I love to draw and teach people
 
 
@@ -35,8 +35,6 @@
 [<img align="left" alt="Digital Ocean" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" />]()
 [<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />]()
 [<img align="left" alt="Nginx" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />]()
-[<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/jenkins.svg" />]()
-[<img align="left" alt="Circle CI" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" />]()
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
