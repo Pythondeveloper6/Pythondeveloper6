@@ -7,7 +7,7 @@
 [![Linkedin: MahmoudAhmed](https://img.shields.io/badge/-pythondeveloper6-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pythondeveloper6/)](https://www.linkedin.com/in/pythondeveloper6/)
 
 
-## I'm a Python Developer , Data Scientis & Instructor
+## I'm a Python Developer , Data Scientist & Instructor
 - 🚀 [Udemy Instructor with Over 125K Student](https://www.udemy.com/user/mahmoudahmed-3/) 
 - 😎 Currently taking a break from work.
 - 🏢 Previously worked with Ajej Consult 
