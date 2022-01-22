@@ -8,6 +8,7 @@
 
 
 ## I'm a Python Developer , Data Scientis & Instructor
+- 🚀 [Udemy Instructor with Over 125K Student](https://www.udemy.com/user/mahmoudahmed-3/) 
 - 😎 Currently taking a break from work.
 - 🏢 Previously worked with Ajej Consult 
 - 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
