@@ -1,7 +1,16 @@
-### Hi there, I'm Mahmoud Ahmed [code4learn.com] 👋
+### Hi there, I'm Mahmoud [code4learn.com] 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/Code4Learn?style=for-the-badge)](https://twitter.com/Code4Learn)
+[![GitHub followers](https://img.shields.io/github/followers/pythondeveloper6?label=Github%20Followers&style=for-the-badge)](https://github.com/Pythondeveloper6)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZtMEPGln_sbgd9_ioDDC9g?label=Youtube&style=for-the-badge)](https://www.youtube.com/c/MahmoudAhmed6)
 
-## I'm a Python Developer & Instructor
-- 🌱 I’m currently learning Data Sciense & AI 🤣
+
+[![Linkedin: MahmoudAhmed](https://img.shields.io/badge/-pythondeveloper6-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pythondeveloper6/)](https://www.linkedin.com/in/pythondeveloper6/)
+
+
+## I'm a Python Developer , Data Scientis & Instructor
+- 😎 Currently taking a break from work.
+- 🏢 Previously worked with Ajej Consult 
+- 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects & Master Data Science 
 - ⚡ Fun fact: I love to draw and teach people
