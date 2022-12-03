@@ -9,7 +9,9 @@
 
 ## I'm a Python Developer , Data Scientist & Instructor
 - 🚀 [Udemy Instructor with Over 125K Student](https://www.udemy.com/user/mahmoudahmed-3/) 
-- 😎 Currently taking a break from work.
+- 👨‍💻 Founder of [Code4learn](https://github.com/Code4learn6)
+- 😎 Seassion Lead @Udacity 
+- 👨🏼‍💻 Instructor @Mystro
 - 🏢 Previously worked with Ajej Consult 
 - 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
 - 👯 I’m looking to collaborate with other content creators
