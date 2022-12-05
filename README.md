@@ -12,6 +12,7 @@
 - 👨‍💻 Founder of [Code4learn](https://github.com/Code4learn6)
 - 😎 Seassion Lead @Udacity 
 - 👨🏼‍💻 Instructor @Mystro
+- 🤖 [3X Kaggle Expert](https://www.kaggle.com/mahmoudahmed6) 
 - 🏢 Previously worked with Ajej Consult 
 - 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
 - 👯 I’m looking to collaborate with other content creators
