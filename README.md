@@ -12,6 +12,7 @@
 - 😎 Seassion Lead @Udacity 
 - 👨🏼‍💻 Instructor @Mystro
 - 🤖 [3X Kaggle Expert](https://www.kaggle.com/mahmoudahmed6) 
+- 🚀 [My linkedin Profile](https://www.linkedin.com/in/pythondeveloper6/)
 - 🚀 [Udemy Instructor with Over 125K Student](https://www.udemy.com/user/mahmoudahmed-3/) 
 - 🚀 [Skillshare Instructor](https://www.skillshare.com/en/user/mahmoudahmed)
 - 🚀 [My youtube channel for python](https://www.youtube.com/channel/UCZtMEPGln_sbgd9_ioDDC9g)
