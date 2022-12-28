@@ -8,11 +8,15 @@
 
 
 ## I'm a Python Developer , Data Scientist & Instructor
-- 🚀 [Udemy Instructor with Over 125K Student](https://www.udemy.com/user/mahmoudahmed-3/) 
 - 👨‍💻 Founder of [Code4learn](https://github.com/Code4learn6)
 - 😎 Seassion Lead @Udacity 
 - 👨🏼‍💻 Instructor @Mystro
 - 🤖 [3X Kaggle Expert](https://www.kaggle.com/mahmoudahmed6) 
+- 🚀 [Udemy Instructor with Over 125K Student](https://www.udemy.com/user/mahmoudahmed-3/) 
+- 🚀 [Skillshare Instructor](https://www.skillshare.com/en/user/mahmoudahmed)
+- 🚀 [My youtube channel for python](https://www.youtube.com/channel/UCZtMEPGln_sbgd9_ioDDC9g)
+- 🚀 [My youtube channel for productivity and time management](https://www.youtube.com/channel/UCL1JLenN2VXkIRv7KuWFujQ)
+- 🚀 [My account @Medium](https://medium.com/@pythondeveloper6)
 - 🏢 Previously worked with Ajej Consult 
 - 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
 - 👯 I’m looking to collaborate with other content creators
