@@ -17,12 +17,12 @@
 - 🚀 [My youtube channel for python](https://www.youtube.com/channel/UCZtMEPGln_sbgd9_ioDDC9g)
 - 🚀 [My youtube channel for productivity and time management](https://www.youtube.com/channel/UCL1JLenN2VXkIRv7KuWFujQ)
 - 🚀 [My account @Medium](https://medium.com/@pythondeveloper6)
-- 🏢 Previously worked with Ajej Consult 
+- 👋 [my website](http://code4learn.teachable.com)
 - 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects & Master Data Science 
 - ⚡ Fun fact: I love to draw and teach people
-- 👋 [my website](http://code4learn.teachable.com)
+
 <br />
 
 ### Languages and Tools:
