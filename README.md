@@ -11,19 +11,23 @@
 - 👨‍💻 Founder of [Code4learn](https://github.com/Code4learn6)
 - 😎 Seassion Lead @Udacity 
 - 👨🏼‍💻 Instructor @Mystro
+- 👨🏼‍💻 Udemy Instructor with Over 125K Student
 - 🤖 [3X Kaggle Expert](https://www.kaggle.com/mahmoudahmed6) 
+- 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Contribute more to Open Source projects & Master Data Science 
+- ⚡ Fun fact: I love to draw and teach people
+- 👋 [my website](http://code4learn.teachable.com)
+---------
 - 🚀 [My linkedin Profile](https://www.linkedin.com/in/pythondeveloper6/)
-- 🚀 [Udemy Instructor with Over 125K Student](https://www.udemy.com/user/mahmoudahmed-3/) 
+- 🚀 [Udemy Instructor](https://www.udemy.com/user/mahmoudahmed-3/) 
 - 🚀 [Skillshare Instructor](https://www.skillshare.com/en/user/mahmoudahmed)
 - 🚀 [My youtube channel for python](https://www.youtube.com/channel/UCZtMEPGln_sbgd9_ioDDC9g)
 - 🚀 [My youtube channel for productivity and time management](https://www.youtube.com/channel/UCL1JLenN2VXkIRv7KuWFujQ)
 - 🚀 [My account @Medium](https://medium.com/@pythondeveloper6)
-- 👋 [my website](http://code4learn.teachable.com)
-- 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects & Master Data Science 
-- ⚡ Fun fact: I love to draw and teach people
-
+- 🚀 [My Hackerrank Account](https://www.hackerrank.com/pythondeveloper)
+- 🚀 [My Leetcode Account](https://leetcode.com/mahmoudahmed6/)
+- 🚀 [My Stackoverflow Account](https://stackoverflow.com/users/5733521/mahmoud-ahmed)
 <br />
 
 ### Languages and Tools:
