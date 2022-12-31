@@ -10,7 +10,7 @@
 ## I'm a Python Developer , Data Scientist & Instructor
 - 👨‍💻 Founder of [Code4learn](https://github.com/Code4learn6)
 - 😎 Seassion Lead @Udacity 
-- 👨🏼‍💻 Instructor @Mystro
+- 👨🏼‍💻 Instructor @Mystro-GmbH Germany
 - 👨🏼‍💻 Udemy Instructor with Over 125K Student
 - 🤖 [3X Kaggle Expert](https://www.kaggle.com/mahmoudahmed6) 
 - 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
