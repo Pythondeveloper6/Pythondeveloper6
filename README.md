@@ -26,6 +26,7 @@
 - 🚀 [My youtube channel for python](https://www.youtube.com/channel/UCZtMEPGln_sbgd9_ioDDC9g)
 - 🚀 [My youtube channel for productivity and time management](https://www.youtube.com/channel/UCL1JLenN2VXkIRv7KuWFujQ)
 - 🚀 [My account @Medium](https://medium.com/@pythondeveloper6)
+- 🚀 [My account @dev.to](https://dev.to/pythondeveloper6)
 - 🚀 [My Hackerrank Account](https://www.hackerrank.com/pythondeveloper)
 - 🚀 [My Leetcode Account](https://leetcode.com/mahmoudahmed6/)
 - 🚀 [My Stackoverflow Account](https://stackoverflow.com/users/5733521/mahmoud-ahmed)
