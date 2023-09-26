@@ -9,7 +9,8 @@
 
 
 ## I'm a Python Developer , Data Scientist & Instructor
-- 👨‍💻 Fullstack Data Scientist @AustinAi 
+- 👨‍💻 Fullstack Data Scientist @AustinAi
+- 🤖 MLOPS enthusiastic
 - 👨‍💻 Founder of [Code4learn](https://github.com/Code4learn6)
 - 😎 Seassion Lead @Udacity 
 - 👨🏼‍💻 Instructor @Mystro-GmbH Germany
