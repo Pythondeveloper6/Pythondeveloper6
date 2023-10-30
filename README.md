@@ -1,38 +1,17 @@
-### Hi there, I'm Mahmoud 
-![](https://komarev.com/ghpvc/?username=pythondeveloper6&style=for-the-badge)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Code4Learn?style=for-the-badge)](https://twitter.com/Code4Learn)
-[![GitHub followers](https://img.shields.io/github/followers/pythondeveloper6?label=Github%20Followers&style=for-the-badge)](https://github.com/Pythondeveloper6)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZtMEPGln_sbgd9_ioDDC9g?label=Youtube&style=for-the-badge)](https://www.youtube.com/c/MahmoudAhmed6)
+### Hi there, I'm Mahmed wagdi
+
+https://www.linkedin.com/in/muhmed-wagdi-8ab303b2/
+
+## I'm a Python Developer 
 
 
-[![Linkedin: MahmoudAhmed](https://img.shields.io/badge/-pythondeveloper6-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pythondeveloper6/)](https://www.linkedin.com/in/pythondeveloper6/)
 
 
-## I'm a Python Developer , Data Scientist & Instructor
-- 👨‍💻 Fullstack Data Scientist @AustinAi
-- 🤖 MLOPS enthusiastic
-- 👨‍💻 Founder of [Code4learn](https://github.com/Code4learn6)
-- 😎 Seassion Lead @Udacity 
-- 👨🏼‍💻 Instructor @Mystro-GmbH Germany
-- 👨🏼‍💻 Udemy Instructor with Over 132K Student
-- 🤖 [3X Kaggle Expert](https://www.kaggle.com/mahmoudahmed6) 
-- 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects & Master Data Science 
-- ⚡ Fun fact: I love to draw and teach people
-- 👋 [my website](http://code4learn.teachable.com)
-- 😎 [My Certificates](https://github.com/Pythondeveloper6/My-Certificates)
+
 ---------
-- 🚀 [My linkedin Profile](https://www.linkedin.com/in/pythondeveloper6/)
-- 🚀 [Udemy Instructor](https://www.udemy.com/user/mahmoudahmed-3/) 
-- 🚀 [Skillshare Instructor](https://www.skillshare.com/en/user/mahmoudahmed)
-- 🚀 [My youtube channel for python](https://www.youtube.com/channel/UCZtMEPGln_sbgd9_ioDDC9g)
-- 🚀 [My youtube channel for productivity and time management](https://www.youtube.com/channel/UCL1JLenN2VXkIRv7KuWFujQ)
-- 🚀 [My account @Medium](https://medium.com/@pythondeveloper6)
-- 🚀 [My account @dev.to](https://dev.to/pythondeveloper6)
-- 🚀 [My Hackerrank Account](https://www.hackerrank.com/pythondeveloper)
-- 🚀 [My Stackoverflow Account](https://stackoverflow.com/users/5733521/mahmoud-ahmed)
-<br />
+- 🚀 https://www.linkedin.com/in/muhmed-wagdi-8ab303b2/
+
+
 
 
 
@@ -129,11 +108,7 @@
 <br />
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://code4learn.teachable.com)
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/MahmoudAhmed6)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Code4Learn)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://eg.linkedin.com/in/pythondeveloper6)
-<br />
+
 
 
 <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
