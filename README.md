@@ -9,18 +9,18 @@
 
 
 ## I'm a Python Developer , Data Scientist & Instructor
-- 👨‍💻 Fullstack Data Scientist @AustinAi
-- 🤖 MLOPS enthusiastic
+- 👨‍💻 Fullstack Data Scientist @BrentfordFC
+- 🤖 MLOPS & Generative AI enthusiastic
 - 👨‍💻 Founder of [Code4learn](https://github.com/Code4learn6)
 - 😎 Seassion Lead @Udacity 
 - 👨🏼‍💻 Instructor @Mystro-GmbH Germany
 - 👨🏼‍💻 Udemy Instructor with Over 132K Student
 - 🤖 [3X Kaggle Expert](https://www.kaggle.com/mahmoudahmed6) 
-- 🌱 Learning more about and studying : `VueJs` , `Deep Learning`
+- 🌱 Learning more about and studying : `MLOPS` , `Deep Learning` , `Generative AI` 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects & Master Data Science 
+- 🥅 2024 Goals: Contribute more to Open Source projects & Master Generative AI & MLOPS
 - ⚡ Fun fact: I love to draw and teach people
-- 👋 [my website](http://code4learn.teachable.com)
+- 👋 [my website](http://codewithmahmoud.com)
 - 😎 [My Certificates](https://github.com/Pythondeveloper6/My-Certificates)
 ---------
 - 🚀 [My linkedin Profile](https://www.linkedin.com/in/pythondeveloper6/)
@@ -112,6 +112,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
@@ -123,6 +127,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 <br />
